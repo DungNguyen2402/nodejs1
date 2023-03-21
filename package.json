@@ -1,0 +1,23 @@
+{
+  "name": "kiemtranode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "joi": "^17.9.0",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1",
+    "vite-plugin-node": "^3.0.2"
+  }
+}
